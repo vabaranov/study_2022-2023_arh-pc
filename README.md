@@ -110,7 +110,7 @@ git clone --recursive https://github.com/yamadharma/course-directory-student-tem
 -   Создайте необходимые каталоги:
 
     ``` shell
-    echo os-intro > COURSE
+    echo os-intro > COURSE 
     make
     ```
 
